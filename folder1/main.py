@@ -1,1 +1,1 @@
-print("this is the folder1 of main branch")
+print("this is the folder1 of main branch but changed by frt_branch")
